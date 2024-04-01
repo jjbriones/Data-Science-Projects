@@ -1,3 +1,3 @@
 **Exploring Airbnb Market Trends**
 
-Used data manipulation and summary statistics to analyze test scores across New York City's public schools
+Used importing and cleaning data and data manipulation skills to explore New York City Airbnb data.
